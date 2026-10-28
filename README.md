@@ -1,4 +1,4 @@
-# 💪 -ByteFIT-Sistema-de-Gest-o-para-Academia
+# 💪 -ByteFIT Sistema de Academia
 
 📌 Sobre o projeto
 
