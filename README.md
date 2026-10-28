@@ -1,9 +1,11 @@
-# -ByteFIT-Sistema-de-Gest-o-para-Academia
+# 💪-ByteFIT-Sistema-de-Gest-o-para-Academia
+
 📌 Sobre o projeto
 
 O ByteFIT é um sistema desenvolvido em Python com o objetivo de organizar processos de gestão de uma academia, reunindo cadastro de clientes, seleção de planos, serviços adicionais e geração de fichas de treino personalizadas.
 
 Este projeto foi desenvolvido como parte da minha jornada de aprendizado em Análise e Desenvolvimento de Sistemas, aplicando conceitos de lógica de programação e desenvolvimento de software.
+
 
 🚀 Funcionalidades
 
@@ -25,6 +27,7 @@ Validação de dados: verificações para entradas como telefone, peso, altura e
 
 Menus interativos: navegação pelo sistema utilizando o terminal.
 
+
 🛠️ Tecnologias utilizadas
 
 Python 3
@@ -39,25 +42,6 @@ Biblioteca datetime
 
 O projeto está organizado em módulos funcionais, incluindo cadastro de clientes, seleção de planos, gerenciamento de adicionais, geração de treinos e navegação por menus.
 
-▶️ Como executar
-
-Pré-requisito: ter o Python 3 instalado no computador.
-
-Clone este repositório:
-
-git clone https://github.com/SEU-USUARIO/ByteFIT-Sistema-Academia.git
-
-Entre na pasta do projeto:
-
-cd ByteFIT-Sistema-Academia
-
-Execute o programa:
-
-python ByteFIT.py
-
-No Windows, também é possível utilizar:
-
-py ByteFIT.py
 
 📚 Conhecimentos aplicados
 
@@ -75,20 +59,10 @@ Manipulação de arquivos
 
 Validação e processamento de dados
 
-🔧 Melhorias futuras
-
-Integração com banco de dados para persistência dos cadastros.
-
-Implementação de autenticação de usuários.
-
-Integração real com sistemas de reconhecimento facial.
-
-Desenvolvimento de uma interface gráfica.
-
-Aprimoramento do gerenciamento de clientes e planos.
 
 👨‍💻 Autor
 
 Estudante de Análise e Desenvolvimento de Sistemas, interessado em programação, desenvolvimento de software e criação de soluções tecnológicas.
+
 
 ByteFIT — Seu progresso, nossa missão. 💪
